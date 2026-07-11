@@ -19,7 +19,7 @@
 
 ```typescript
 const arfanAsgar = {
-  title: "AI and Machine Learning Engineer",
+  title: "Aspiring AI and Machine Learning Engineer",
   stack: {
     languages: ["C", "C++", "Python"],
     webDevelopment: ["MongoDB", "Express.js", "React.js", "Node.js"],
@@ -39,76 +39,7 @@ const arfanAsgar = {
 
 <br/>
 
-## 🚀 Featured Projects
 
-### 🔹 SVD Image Compression Tool
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=BitwiseSage&repo=SVD-Image-Compression-Tool&theme=nord&border_color=20594F&title_color=20594F&text_color=ffffff&icon_color=20594F&bg_color=0d1117" alt="SVD Image Compression Tool" />
-
-Implemented image compression using Singular Value Decomposition (SVD) for low-rank matrix approximation, with an interactive rank-selection interface to visualize the reconstruction-quality vs compression trade-off.
-
-| Layer | Technology |
-|---|---|
-| Core Language | Python |
-| Numerical Computation | NumPy |
-| Visualization | Matplotlib |
-
-🔗 [Code](https://github.com/BitwiseSage/SVD-Image-Compression-Tool)
-
-<br/>
-
-### 🔹 Secure Chat Room with SSL Encryption
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=BitwiseSage&repo=Secure-Chat-Room-SSL-Encryption&theme=nord&border_color=20594F&title_color=20594F&text_color=ffffff&icon_color=20594F&bg_color=0d1117" alt="Secure Chat Room with SSL Encryption" />
-
-Developed a secure multi-user chat application using socket programming with SSL encryption, handling encrypted client-server communication and concurrent multi-user sessions.
-
-| Layer | Technology |
-|---|---|
-| Core Language | Python |
-| Networking | Sockets |
-| Security | SSL/TLS |
-
-🔗 [Code](https://github.com/BitwiseSage/Secure-Chat-Room-SSL-Encryption)
-
-<br/>
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=c,cpp,py" alt="Languages" />
-
-**Web Development**
-
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" alt="Web Development" />
-
-**Dev Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Dev Tools" />
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=arfanasgar&show_icons=true&theme=nord&border_color=20594F&title_color=20594F&text_color=ffffff&icon_color=20594F&bg_color=0d1117" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfanasgar&layout=compact&theme=nord&border_color=20594F&title_color=20594F&text_color=ffffff&bg_color=0d1117" alt="Top Languages" height="165" />
-
-<img src="https://streak-stats.demolab.com?user=arfanasgar&theme=nord&border=20594F&ring=20594F&fire=20594F&currStreakLabel=20594F&background=0D1117" alt="GitHub Streak" />
-
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=arfanasgar&theme=nord&no-frame=true&no-bg=true&margin-w=15&row=1" alt="GitHub Trophies" />
-</div>
-
-<br/>
 
 ## 📈 Contribution Activity
 
