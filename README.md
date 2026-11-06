@@ -61,7 +61,6 @@ An image compression project exploring Singular Value Decomposition (SVD), dimen
 A client-server chat application using TCP sockets, supporting multiple clients and secure communication through SSL encryption.
 
 <br/>
--->
 
 ## 🎯 Currently Working Towards
 
@@ -71,6 +70,7 @@ A client-server chat application using TCP sockets, supporting multiple clients 
 - Improving my problem-solving and software engineering skills.
 
 <br/>
+-->
 
 ## 🤝 Let's Connect
 
