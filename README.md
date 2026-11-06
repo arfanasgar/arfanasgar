@@ -49,6 +49,7 @@ I enjoy solving problems, experimenting with new technologies, and turning ideas
 
 <br/>
 
+<!--
 ## 🚀 Featured Projects
 
 **1. SVD Image Compression Tool**
@@ -60,6 +61,7 @@ An image compression project exploring Singular Value Decomposition (SVD), dimen
 A client-server chat application using TCP sockets, supporting multiple clients and secure communication through SSL encryption.
 
 <br/>
+-->
 
 ## 🎯 Currently Working Towards
 
